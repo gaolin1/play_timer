@@ -1,9 +1,8 @@
 from datetime import datetime
 from logging import shutdown
-from random import randint, random
-from random import seed
+from random import randint
 from dateutil.relativedelta import relativedelta
-from tkinter import simpledialog, messagebox
+from tkinter import messagebox
 import tkinter as tk
 import os
 
